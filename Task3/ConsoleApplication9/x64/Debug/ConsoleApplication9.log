@@ -1,0 +1,9 @@
+﻿  ConsoleApplication9.cpp
+C:\Users\Дед_инсайд\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(130,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Дед_инсайд\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(131,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Дед_инсайд\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(137,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Дед_инсайд\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(140,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Дед_инсайд\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(143,22): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Дед_инсайд\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(46): warning C4172: возвращение адреса локальной или временной переменной : tmp
+C:\Users\Дед_инсайд\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(57): warning C4172: возвращение адреса локальной или временной переменной : tmp
+  ConsoleApplication9.vcxproj -> C:\Users\Дед_инсайд\source\repos\ConsoleApplication9\x64\Debug\ConsoleApplication9.exe
